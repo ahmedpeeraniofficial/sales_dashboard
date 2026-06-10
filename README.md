@@ -1,4 +1,4 @@
-# uber_dashboard
+# sales_dashboard
 
 Built an interactive Power BI Sales Performance Dashboard to deliver clear and actionable financial insights for better business decision-making. The dashboard simplifies large and complex datasets into easy-to-understand visual reports.
 
